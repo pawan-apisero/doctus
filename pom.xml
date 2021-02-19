@@ -36,7 +36,7 @@
                               <uri>https://anypoint.mulesoft.com</uri>
                               <muleVersion>${mule.version}</muleVersion>
                               <username>API945_002</username>
-                              <password>Auxilium1234\^\^</password>
+                              <password>Auxilium1234</password>
                               <applicationName>azure-devops-app-demo-API945</applicationName>
                               <environment>Sandbox</environment>
                               <businessGroup>Apisero</businessGroup>
