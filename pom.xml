@@ -37,7 +37,7 @@
                               <muleVersion>${mule.version}</muleVersion>
                               <username>API945_002</username>
                               <password><![CDATA[Danger1234$$]]></password>
-                              <applicationName>azure-devops-app-demo_API945</applicationName>
+                              <applicationName>azure-devops-app-demo-API945</applicationName>
                               <environment>Sandbox</environment>
                               <businessGroup>Apisero</businessGroup>
                               <workerType>SMALL</workerType>
